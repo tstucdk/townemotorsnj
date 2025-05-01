@@ -85,27 +85,27 @@ h1, h2, h3 {
   color: #fff;
 }
 
-.hyundai .btn.primary {
+.btn.primary.hyundai {
   background-color: #003c71;
   color: white;
   border: 2px solid transparent;
   transition: all 0.2s ease;
 }
 
-.hyundai .btn.primary:hover {
+.btn.primary.hyundai:hover {
   background-color: white;
   color: #003c71;
   border: 2px solid #003c71;
 }
 
-.toyota .btn.primary {
+.btn.primary.toyota {
   background-color: #d71920;
   color: white;
   border: 2px solid transparent;
   transition: all 0.2s ease;
 }
 
-.toyota .btn.primary:hover {
+.btn.primary.toyota:hover {
   background-color: white;
   color: #d71920;
   border: 2px solid #d71920;
@@ -127,23 +127,6 @@ h1, h2, h3 {
   font-weight: 600;
   min-width: 260px;
   text-align: center;
-}
-
-.btn.all-inventory {
-  background-color: #008000;
-  color: #fff;
-  padding: 0.75rem 1.5rem;
-  font-size: 1.1rem;
-  border-radius: 4px;
-  transition: all 0.3s ease;
-  display: inline-block;
-  border: 2px solid #008000;
-}
-
-.btn.all-inventory:hover {
-  background-color: #fff;
-  color: #008000;
-  border: 2px solid #008000;
 }
 
 /* Map Section */
