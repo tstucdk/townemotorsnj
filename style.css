@@ -174,4 +174,5 @@ h1, h2, h3 {
 .legacy-card:hover .legacy-image {
   transform: scale(1.02);
   box-shadow: 0 0 4px rgba(0,0,0,0.05);
+  filter: sepia(60%);
 }
