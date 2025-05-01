@@ -112,7 +112,20 @@ h1, h2, h3 {
 }
 
 .inventory-button {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
   margin: 2rem auto 1rem;
+  text-align: center;
+}
+
+.inventory-button a {
+  padding: 0.75rem 1.5rem;
+  font-size: 1.1rem;
+  border-radius: 4px;
+  font-weight: 600;
+  min-width: 260px;
   text-align: center;
 }
 
