@@ -176,3 +176,7 @@ h1, h2, h3 {
   box-shadow: 0 0 4px rgba(0,0,0,0.05);
   filter: sepia(60%);
 }
+
+.big-e {
+  font-size: 1.4em;
+}
