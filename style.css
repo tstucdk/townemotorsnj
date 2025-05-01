@@ -122,6 +122,11 @@ h1, h2, h3 {
   box-shadow: 0 0 4px rgba(0,0,0,0.1);
 }
 
+.map-info .logos img[src*="towne"] {
+  width: 128px;
+  height: 128px;
+}
+
 .tagline {
   font-size: 1.2rem;
   margin-top: 1rem;
